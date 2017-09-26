@@ -1,0 +1,19 @@
+{
+  "Gemfile": "7897c9fdab98cf1dd13c6711a4ba71ad",
+  "Gemfile.lock": "75f8354bc9191f11e3918e5a947f3fcb",
+  "LICENSE": "d32239bcb673463ab874e80d47fae504",
+  "README.md": "b2f35e6802bc79bc213eacc9d477583a",
+  "Rakefile": "ecfa45f35a67242909af5b0c9dacb17b",
+  "manifests/app.pp": "98cfd9969bb3887e3c97b162bd39a68a",
+  "manifests/init.pp": "5604222212bb21732cf6cffdbe17991b",
+  "metadata.json": "73c7d324cf8cd43935493363b8bbb705",
+  "spec/acceptance/nodesets/default.yml": "767ecdceaa582105012b8b38718e94e7",
+  "spec/acceptance/puma__app_spec.rb": "c6540b6550b7eedf4d63efc540ff208e",
+  "spec/defines/puma__app_spec.rb": "f50d69c592fae9e63f6851d6af900f47",
+  "spec/spec.opts": "a44e95bea73a078e43dfe74b43683a83",
+  "spec/spec_helper.rb": "49024438acdcf3461bd09ab49d09c026",
+  "spec/spec_helper_acceptance.rb": "aa4655201f25b213652e2c9315a98b0a",
+  "templates/database.yml.erb": "73423908a650771c2742fc5aeb617c5b",
+  "templates/init.erb": "50de5725a5d871cddba545a6a887510c",
+  "templates/puma.rb.erb": "fec148aef2a2f3b57bec40fb9e3afa8f"
+}
